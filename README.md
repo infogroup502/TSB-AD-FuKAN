@@ -34,3 +34,8 @@ TSB_AD/
 └── utils/                # sliding-window and utilities
 ```
 
+## License
+
+See `LICENSE`.  The dataset and benchmark scripts are not included in this
+repository; please fetch `Datasets/` and the official evaluation scripts from
+the upstream TSB-AD repository.
